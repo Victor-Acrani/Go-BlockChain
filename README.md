@@ -15,7 +15,7 @@ Link of Part 1 of this tutorial. [Building a Blockchain in Golang - Part 1](http
 git clone "git@github.com:Victor-Acrani/Go-BlockChain.git"
 ```
 
-## How run 
+## How to run 
 ```sh
 go run main.go
 ```
